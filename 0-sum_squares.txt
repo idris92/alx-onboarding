@@ -1,0 +1,10 @@
+
+pseudo code:
+
+1. create a function that accept two number as input
+2. create a variable to hold the square of the first number
+3. create a variable to hold the square of the second number
+4. save the square of the firstnumber in the first variable
+5. save the square of the secondnumber in the second variable
+6. sum the firstnumber square and the second square number
+7. return the sum

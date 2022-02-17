@@ -1,0 +1,7 @@
+
+pseudo code:
+
+1. create a function that takes user input
+2. initialize a variable sum to 0
+3. check if the user input is greater than 0, if greater increment the sum with userinput
+4. else return the sum

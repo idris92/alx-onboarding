@@ -1,0 +1,7 @@
+
+pseudo code:
+
+1. create a function that takes array as input
+2. create a variable name sorted
+3. use sort function to arange the input in order and save in the variable
+4. return the variable
